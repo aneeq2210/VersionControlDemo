@@ -1,3 +1,4 @@
+#v2
 def greet():
     print("_______________________")
     print("\nWelcome to ANQ ships, Your one-stop shop for Rocketships")
@@ -99,3 +100,6 @@ for rocket in rocketcount:
     print("_______________________")
 
 print(f"\nTotal Cost: ${total_cost}")
+input("You wanna car?")
+input("you wanna car?")
+print("Car for nobody, who do you think I am rich?)
