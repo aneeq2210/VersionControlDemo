@@ -98,7 +98,7 @@ for rocket in rocketcount:
     print("Cost per Day: $", rocket_cost)
     print("Hire Period:", rocket_days, "days")
     print("_______________________")
-
+#V2
 print(f"\nTotal Cost: ${total_cost}")
 input("You wanna car?")
 input("you wanna car?")
